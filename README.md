@@ -1,5 +1,6 @@
 # Event planner
->
+>This repository contains implementations of the event planner system
+
 ## Status
 Project is: _finished_.
 
