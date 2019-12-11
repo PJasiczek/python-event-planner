@@ -1,4 +1,7 @@
 # Event planner
 >
+## Status
+Project is: _finished_.
+
 ## Contact
-Created by [@PJasiczek](https://www.piotrjasiczek.pl/)
+Created by [@PJasiczek](http://www.piotrjasiczek.pl/) - feel free to contact me!
